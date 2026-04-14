@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">🚀 About Me
+<h4 align="left">🚀 About Me
 <ul align="left">
   <li>👤 I'm a Student</li>
   <li>📍 From Pillai Engineering College, New Panvel</li>
@@ -12,7 +12,7 @@
   <li>🌱 Currently learning React, Vite, Next.js</li>
   <li>🎯 Goal: Get a job with a good salary so that I can give rest to my parents</li>
 </ul>
-</h6>
+</h4>
 ###
 
 <div align="center">
