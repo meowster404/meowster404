@@ -4,7 +4,12 @@
 
 ###
 
-<h6 align="left">🚀 About Me<br><br>👤 I'm a Student<br>📍 From Pillai Engineering College, New Panvel<br>💡 Interested in AI, Front-End Development, Software Development & Project Management<br>🌱 Currently learning React, Vite, Next.js<br>🎯 Goal: Get a job with a good salary so that I can give rest to my parents</h6>
+<h6 align="left">🚀 About Me<br><br>
+-👤 I'm a Student<br>📍 From Pillai Engineering College, New Panvel<br>
+-💡 Interested in AI, Front-End Development, Software Development & Project Management<br>
+-🌱 Currently learning React, Vite, Next.js<br>
+-🎯 Goal: Get a job with a good salary so that I can give rest to my parents
+</h6>
 
 ###
 
