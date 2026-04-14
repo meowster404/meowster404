@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:meowster404 ?theme=miku&padding=4&scale=1&align=center&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:meowster404 ?theme=miku&padding=4&scale=0.5&align=center&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
