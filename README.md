@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Meowster.</h2>
 
+<img align="right" height="350" src="https://i.pinimg.com/originals/d1/b5/3d/d1b53d8835e48385117d86281d4681cc.gif" alt="Anime GIF" />
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/meowster404/meowster404/stats-output/stats.svg" height="160" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=meowster404&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="160" alt="GitHub streak" />
