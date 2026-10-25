@@ -1,48 +1,51 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meowster404/meowster404/main/assets/neon-header.svg" width="100%" alt="Futuristic neon developer profile banner" />
+<a href="https://github.com/meowster404">
+  <img src="https://i.pinimg.com/originals/d3/10/d3/d310d314fc99e1aedd20294e5cc6c5b1.gif" width="100%" alt="Animated anime cyberpunk banner" />
+</a>
+
 <br/>
-<a href="https://github.com/meowster404"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=760&lines=AI+%2F+ML+Explorer;Software+Developer+in+Progress;Turning+ideas+into+working+systems;Forecasting+%E2%80%A2+NLP+%E2%80%A2+Full+Stack" alt="Animated developer tagline" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=FF3D71&center=true&vCenter=true&width=850&lines=ABHIJITH+RAMESH+%2F%2F+DEVELOPER;AI+%C2%B7+MACHINE+LEARNING+%C2%B7+SOFTWARE;Building+systems%2C+not+just+screens;Turning+ideas+into+working+software" alt="Animated developer introduction" />
 <br/>
-<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-00f5ff?style=for-the-badge&labelColor=080d1b" alt="Build mode active" />
-&nbsp;<img src="https://img.shields.io/badge/BASE-INDIA-7c5cff?style=for-the-badge&labelColor=080d1b" alt="Based in India" />
-&nbsp;<img src="https://komarev.com/ghpvc/?username=meowster404&style=for-the-badge&color=ff3cac&label=PROFILE+SCANS" alt="Profile views" />
+<a href="https://github.com/meowster404?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-ff3d71?style=for-the-badge&logo=github&logoColor=white&labelColor=10101a" alt="Explore repositories" /></a>
+<a href="https://portfolio-seven-red-ne4wyhcyhp.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-9d6bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10101a" alt="Open portfolio" /></a>
+<a href="https://www.linkedin.com/in/abhijith-ramesh404/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-5ee7ff?style=for-the-badge&logo=linkedin&logoColor=10101a&labelColor=10101a" alt="Connect on LinkedIn" /></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=meowster404&style=for-the-badge&color=ff3d71&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/meowster404?style=for-the-badge&color=9d6bff&labelColor=10101a&label=FOLLOWERS" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/meowster404?style=for-the-badge&color=5ee7ff&labelColor=10101a&label=TOTAL+STARS" alt="GitHub stars" />
 </div>
+
+---
 
 <table>
 <tr>
 <td width="56%" valign="top">
 
-## <img src="https://img.shields.io/badge/01-IDENTITY-00f5ff?style=flat-square&labelColor=10152b" alt="01 Identity" />
+<img src="https://img.shields.io/badge/01%20%2F%20IDENTITY-ff3d71?style=flat-square&labelColor=10101a" alt="Identity section" />
 
 ### Hey, I'm Abhijith.
 
-I'm a final-year Information Technology student and AI intern interested in building **useful software, intelligent systems, and polished developer tools**.
+Final-year Information Technology student and AI intern interested in building practical software at the intersection of AI, data, and product engineering.
 
-I like working across the stack: from data and model experiments to APIs and user-facing applications.
+I enjoy moving from model experiments and data pipelines to APIs and user-facing interfaces.
 
-- <code>CURRENT MODE</code> — AI / ML + software engineering
-- <code>RESEARCH ZONE</code> — demand forecasting, NLP, sentiment-aware systems
-- <code>BUILD ZONE</code> — Python, JavaScript, React, FastAPI
-- <code>MISSION</code> — turn complex ideas into practical tools
+- <b>FOCUS</b> — AI / ML · backend · full-stack development
+- <b>RESEARCH</b> — demand forecasting · NLP · sentiment-aware systems
+- <b>TOOLKIT</b> — Python · Java · JavaScript · React · FastAPI
+- <b>PRINCIPLE</b> — ship useful things, keep learning, iterate often
 
 <br/>
-<a href="https://portfolio-seven-red-ne4wyhcyhp.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-00f5ff?style=for-the-badge&logo=vercel&logoColor=08111f&labelColor=10152b" alt="Open portfolio" /></a>
-<a href="https://www.linkedin.com/in/abhijith-ramesh404/"><img src="https://img.shields.io/badge/CONNECT-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10152b" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/meowster404"><img src="https://img.shields.io/badge/GITHUB-@meowster404-171724?style=flat-square&logo=github" alt="GitHub profile" /></a>
+<a href="https://portfolio-seven-red-ne4wyhcyhp.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-171724?style=flat-square&logo=vercel" alt="Portfolio" /></a>
 
 </td>
 <td width="44%" valign="top">
 
-## <img src="https://img.shields.io/badge/02-SYSTEM_TELEMETRY-ff3cac?style=flat-square&labelColor=10152b" alt="02 System telemetry" />
+<img src="https://img.shields.io/badge/02%20%2F%20LIVE%20TELEMETRY-9d6bff?style=flat-square&labelColor=10101a" alt="Live telemetry section" />
 
-<a href="https://github.com/meowster404"><img src="https://ghstats.dev/api/card?username=meowster404&theme=dark" width="100%" alt="Live GitHub profile stats" /></a>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PUBLIC_REPOS-TRACKING-00f5ff?style=flat-square&labelColor=10152b" alt="Public repository tracker" />
-<img src="https://img.shields.io/badge/OPEN_SOURCE-ON-7c5cff?style=flat-square&labelColor=10152b" alt="Open source status" />
-</p>
-
-<a href="https://github.com/meowster404?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE_%E2%86%97-10152b?style=for-the-badge&logo=github&logoColor=00f5ff" alt="Explore repositories" /></a>
+<a href="https://ghstats.dev/"><img src="https://ghstats.dev/api/card?username=meowster404&theme=dark" width="100%" alt="GitHub account statistics card" /></a>
+<a href="https://github.com/meowster404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowster404&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=10101a&title_color=ff3d71&text_color=e6e6f0" width="100%" alt="Most used programming languages" /></a>
 
 </td>
 </tr>
@@ -51,77 +54,70 @@ I like working across the stack: from data and model experiments to APIs and use
 ---
 
 <div align="center">
-
-## <img src="https://img.shields.io/badge/03-SELECTED_BUILDS-00f5ff?style=flat-square&labelColor=10152b" alt="03 Selected builds" />
-
+<img src="https://img.shields.io/badge/03%20%2F%20CONTRIBUTION%20CITY-5ee7ff?style=flat-square&labelColor=10101a" alt="Contribution city section" />
+### A year of building — in 3D
+The contribution calendar below is generated from GitHub activity by a scheduled GitHub Actions workflow. The workflow refreshes the graphic daily.
+<a href="https://github.com/meowster404/meowster404/actions/workflows/profile-3d.yml"><img src="https://raw.githubusercontent.com/meowster404/meowster404/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar in neon colors" /></a>
+<a href="https://github.com/meowster404/meowster404/actions/workflows/profile-3d.yml"><img src="https://img.shields.io/badge/3D%20GRAPH-GENERATED%20BY%20GITHUB%20ACTIONS-ff3d71?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=10101a" alt="3D graph automation workflow" /></a>
 </div>
+
+---
+
+<img src="https://img.shields.io/badge/04%20%2F%20FEATURED%20PROJECTS-ff3d71?style=flat-square&labelColor=10101a" alt="Featured projects section" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/meowster404/Dynamic-Pricing-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=Dynamic-Pricing-Model&bg_color=080d1b&title_color=00f5ff&text_color=c8d5f0&icon_color=7c5cff&border_color=29345a" width="100%" alt="Dynamic Pricing Model repository card" /></a>
+<a href="https://github.com/meowster404/Dynamic-Pricing-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=Dynamic-Pricing-Model&hide_border=true&bg_color=10101a&title_color=ff3d71&text_color=e6e6f0&icon_color=9d6bff" width="100%" alt="Dynamic Pricing Model repository card" /></a>
 
-**AI / DATA SYSTEMS**
+**AI / RETAIL INTELLIGENCE**
 
-Demand forecasting, sentiment signals, and dynamic retail pricing decision support. Research-oriented work combining ML components into a wider decision pipeline.
+A research-oriented dynamic pricing system combining demand forecasting, review sentiment signals, and decision support.
 
-<img src="https://img.shields.io/badge/DOMAIN-FORECASTING-00f5ff?style=flat-square&labelColor=10152b" alt="Forecasting" />
-<img src="https://img.shields.io/badge/DOMAIN-NLP-7c5cff?style=flat-square&labelColor=10152b" alt="NLP" />
+<img src="https://img.shields.io/badge/FORECASTING-TFT-ff3d71?style=flat-square&labelColor=10101a" alt="Temporal Fusion Transformer" />
+<img src="https://img.shields.io/badge/SENTIMENT-BERT-9d6bff?style=flat-square&labelColor=10101a" alt="BERT sentiment analysis" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/meowster404/smart-mood-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=smart-mood-player&bg_color=080d1b&title_color=00f5ff&text_color=c8d5f0&icon_color=7c5cff&border_color=29345a" width="100%" alt="Smart Mood Player repository card" /></a>
+<a href="https://github.com/meowster404/smart-mood-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=smart-mood-player&hide_border=true&bg_color=10101a&title_color=ff3d71&text_color=e6e6f0&icon_color=9d6bff" width="100%" alt="Smart Mood Player repository card" /></a>
 
-**PERSONALIZATION / APIS**
+**MUSIC / PERSONALIZATION**
 
-A music-focused project exploring mood-aware discovery and playback with API integrations.
+A music project exploring mood-aware discovery and playback through API integrations.
 
-<img src="https://img.shields.io/badge/DOMAIN-API_INTEGRATION-00f5ff?style=flat-square&labelColor=10152b" alt="API integration" />
-<img src="https://img.shields.io/badge/DOMAIN-PERSONALIZATION-7c5cff?style=flat-square&labelColor=10152b" alt="Personalization" />
+<img src="https://img.shields.io/badge/API-INTEGRATION-5ee7ff?style=flat-square&labelColor=10101a" alt="API integration" />
+<img src="https://img.shields.io/badge/FOCUS-PERSONALIZATION-9d6bff?style=flat-square&labelColor=10101a" alt="Personalization" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/meowster404/Popflix-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=Popflix-site&bg_color=080d1b&title_color=00f5ff&text_color=c8d5f0&icon_color=7c5cff&border_color=29345a" width="100%" alt="Popflix web repository card" /></a>
+<a href="https://github.com/meowster404/Popflix-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=Popflix-site&hide_border=true&bg_color=10101a&title_color=ff3d71&text_color=e6e6f0&icon_color=9d6bff" width="100%" alt="Popflix web repository card" /></a>
 
-**WEB EXPERIENCE**
+**WEB / PRODUCT UI**
 
-Movie-discovery web project focused on a clean user-facing experience.
+A movie discovery web experience. The related Android project is available separately.
 
-<a href="https://github.com/meowster404/popflix-android"><img src="https://img.shields.io/badge/ANDROID_VARIANT-VIEW-ff3cac?style=for-the-badge&logo=android&logoColor=white&labelColor=10152b" alt="View Popflix Android project" /></a>
+<a href="https://github.com/meowster404/popflix-android"><img src="https://img.shields.io/badge/ANDROID%20PROJECT-VIEW-9d6bff?style=flat-square&logo=android&logoColor=white" alt="Popflix Android project" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/meowster404/verifio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=verifio&bg_color=080d1b&title_color=00f5ff&text_color=c8d5f0&icon_color=7c5cff&border_color=29345a" width="100%" alt="Verifio repository card" /></a>
+<a href="https://github.com/meowster404/verifio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meowster404&repo=verifio&hide_border=true&bg_color=10101a&title_color=ff3d71&text_color=e6e6f0&icon_color=9d6bff" width="100%" alt="Verifio repository card" /></a>
 
 **JAVASCRIPT / DEVELOPER TOOLS**
 
-A package project focused on reusable functionality for JavaScript applications.
+A JavaScript package project built around reusable functionality.
 
-<a href="https://github.com/meowster404/verifio"><img src="https://img.shields.io/badge/INSPECT_SOURCE-OPEN_%E2%86%97-00f5ff?style=for-the-badge&logo=github&logoColor=08111f&labelColor=10152b" alt="Inspect Verifio source" /></a>
+<img src="https://img.shields.io/badge/STACK-JAVASCRIPT-ff3d71?style=flat-square&labelColor=10101a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TYPE-NPM%20PACKAGE-9d6bff?style=flat-square&labelColor=10101a" alt="npm package" />
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## <img src="https://img.shields.io/badge/04-TECH_MATRIX-7c5cff?style=flat-square&labelColor=10152b" alt="04 Tech matrix" />
-
-### LANGUAGES / INTERFACES
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vite&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML, CSS, React, Vite" />
-
-### BACKEND / DATA / TOOLING
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,sklearn,pytorch,opencv,git,github,vscode,tailwind&theme=dark" alt="FastAPI, Flask, Django, scikit-learn, PyTorch, OpenCV, Git, GitHub, VS Code, Tailwind" />
-
-</div>
 
 ---
 
@@ -129,18 +125,24 @@ A package project focused on reusable functionality for JavaScript applications.
 <tr>
 <td width="50%" valign="top">
 
-## <img src="https://img.shields.io/badge/05-CODE_ACTIVITY-00f5ff?style=flat-square&labelColor=10152b" alt="05 Code activity" />
+<img src="https://img.shields.io/badge/05%20%2F%20CODE%20SIGNAL-9d6bff?style=flat-square&labelColor=10101a" alt="Code signal section" />
 
-<a href="https://github.com/meowster404"><img src="https://github-readme-activity-graph.vercel.app/graph?username=meowster404&bg_color=080d1b&color=c8d5f0&line=00f5ff&point=ff3cac&area=true&area_color=29204f&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" /></a>
+<a href="https://github.com/meowster404"><img src="https://github-readme-activity-graph.vercel.app/graph?username=meowster404&bg_color=10101a&color=e6e6f0&line=ff3d71&point=5ee7ff&area=true&area_color=302044&hide_border=true&custom_title=COMMIT%20SIGNAL" width="100%" alt="GitHub contribution activity graph" /></a>
+<a href="https://streak-stats.demolab.com/"><img src="https://streak-stats.demolab.com?user=meowster404&theme=dark&hide_border=true&background=10101a&ring=ff3d71&fire=5ee7ff&currStreakLabel=ff3d71&sideLabels=e6e6f0&currStreakNum=ffffff&sideNums=ffffff&dates=8d8da8" width="100%" alt="GitHub contribution streak" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-## <img src="https://img.shields.io/badge/06-LANGUAGE_SIGNAL-ff3cac?style=flat-square&labelColor=10152b" alt="06 Language signal" />
+<img src="https://img.shields.io/badge/06%20%2F%20STACK-5ee7ff?style=flat-square&labelColor=10101a" alt="Technology stack section" />
 
-<a href="https://github.com/meowster404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowster404&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=080d1b&title_color=00f5ff&text_color=c8d5f0&border_color=29345a" width="100%" alt="Top languages chart" /></a>
+### LANGUAGES / UI
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vite&theme=dark" width="100%" alt="Python, Java, JavaScript, TypeScript, HTML, CSS, React, Vite" />
 
-<a href="https://github.com/meowster404"><img src="https://streak-stats.demolab.com?user=meowster404&theme=dark&hide_border=true&background=080d1b&ring=00f5ff&fire=ff3cac&currStreakLabel=00f5ff&sideLabels=c8d5f0&currStreakNum=f1f5ff&sideNums=f1f5ff&dates=7c8bb5" width="100%" alt="Contribution streak statistics" /></a>
+### BACKEND / ML / TOOLS
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,sklearn,pytorch,opencv,git,github,vscode,tailwind&theme=dark" width="100%" alt="FastAPI, Flask, Django, scikit-learn, PyTorch, OpenCV, Git, GitHub, VS Code, Tailwind" />
+
+<br/>
+<a href="https://github.com/meowster404?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20BUILDS-OPEN%20REPOSITORIES-ff3d71?style=for-the-badge&logo=github&logoColor=white&labelColor=10101a" alt="Browse all repositories" /></a>
 
 </td>
 </tr>
@@ -149,16 +151,11 @@ A package project focused on reusable functionality for JavaScript applications.
 ---
 
 <div align="center">
-
-## <img src="https://img.shields.io/badge/07-NEXT_OBJECTIVES-00f5ff?style=flat-square&labelColor=10152b" alt="07 Next objectives" />
-
-<img src="https://img.shields.io/badge/01-Ship_more_projects-00f5ff?style=for-the-badge&labelColor=10152b" alt="Ship more projects" />
-<img src="https://img.shields.io/badge/02-Deepen_AI_ML-7c5cff?style=for-the-badge&labelColor=10152b" alt="Deepen AI and ML" />
-<img src="https://img.shields.io/badge/03-Contribute_to_open_source-ff3cac?style=for-the-badge&labelColor=10152b" alt="Contribute to open source" />
-
+<img src="https://img.shields.io/badge/07%20%2F%20NEXT%20OBJECTIVES-ff3d71?style=flat-square&labelColor=10101a" alt="Next objectives section" />
 <br/><br/>
-<a href="https://github.com/meowster404?tab=repositories"><img src="https://img.shields.io/badge/ACCESS_ALL_REPOSITORIES-00f5ff?style=for-the-badge&logo=github&logoColor=08111f&labelColor=10152b" alt="Access all repositories" /></a>
+<img src="https://img.shields.io/badge/SHIP-REAL%20PROJECTS-ff3d71?style=for-the-badge&labelColor=10101a" alt="Ship real projects" />
+<img src="https://img.shields.io/badge/EXPLORE-AI%20%26%20ML-9d6bff?style=for-the-badge&labelColor=10101a" alt="Explore AI and ML" />
+<img src="https://img.shields.io/badge/BUILD-OPEN%20SOURCE-5ee7ff?style=for-the-badge&labelColor=10101a" alt="Build open source" />
 <br/><br/>
-<sub><code>END OF TRANSMISSION // KEEP BUILDING.</code></sub>
-
+<sub>DESIGNED IN DARK MODE // POWERED BY CURIOSITY // ALWAYS BUILDING</sub>
 </div>
