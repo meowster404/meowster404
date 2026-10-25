@@ -45,7 +45,7 @@
 
 <div data-importer="music">
  <a href="https://open.spotify.com/user/31ow5ou32q5yqava5lqdb4xom2bu">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ow5ou32q5yqava5lqdb4xom2bu&amp;theme=radical&amp;width=640&amp;unique=1&amp;duration=1&amp;album=1&amp;profile=off" alt="Spotify recently played" width="440" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ow5ou32q5yqava5lqdb4xom2bu&amp;theme=radical&amp;width=640&amp;unique=1&amp;duration=1&amp;album=1&amp;profile=off" alt="Spotify recently played" width="540" />
 </a>
 </div>
 
