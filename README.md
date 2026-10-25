@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/meowster404">
-  <img src="https://plain-apac-prod-public.komododecks.com/202610/25/ntTHIijt4tKuKWR7iBeo/image.jpg" width="100%" alt="Anime-themed profile banner" />
+  <img src="https://plain-apac-prod-public.komododecks.com/202610/25/jwcvqm9lBsm8p6HJ5PVw/image.jpg" width="100%" alt="Anime-themed profile banner" />
 </a>
 
 <br/>
