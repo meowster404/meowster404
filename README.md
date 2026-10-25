@@ -1,9 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/meowster404">
-  <img src="https://i.pinimg.com/originals/d3/10/d3/d310d314fc99e1aedd20294e5cc6c5b1.gif" width="100%" height="190" alt="Animated anime cyberpunk banner" />
+  <img src="https://i.pinimg.com/736x/6d/3e/df/6d3edf50c4fc4d3d6394e916679f343e.jpg" width="100%" alt="Anime-themed profile banner" />
 </a>
 
+<br/>
+<a href="https://github.com/meowster404">
+  <img src="https://github.com/meowster404.png?size=240" width="120" alt="Abhijith Ramesh profile picture" />
+</a>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=FF3D71&center=true&vCenter=true&width=850&lines=ABHIJITH+RAMESH+%2F%2F+DEVELOPER;AI+%C2%B7+MACHINE+LEARNING+%C2%B7+SOFTWARE;Building+systems%2C+not+just+screens;Turning+ideas+into+working+software" alt="Animated developer introduction" />
 <br/>
