@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="450" src="https://i.pinimg.com/originals/d1/b5/3d/d1b53d8835e48385117d86281d4681cc.gif"  />
+<img data-importer="image" align="right" height="350" src="https://i.pinimg.com/originals/d1/b5/3d/d1b53d8835e48385117d86281d4681cc.gif"  />
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" width="640"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" width="700"/>
 
 ###
 
