@@ -56,7 +56,11 @@ I build useful software with Python, web technologies, and machine learning — 
 ### Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,fastapi,flask,html,css,git,github,vscode&theme=light" alt="Python, Java, JavaScript, TypeScript, React, Vite, FastAPI, Flask, HTML, CSS, Git, GitHub, VS Code" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,fastapi,flask,html,css,git,github,vscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,fastapi,flask,html,css,git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,fastapi,flask,html,css,git,github,vscode&theme=light" alt="Python, Java, JavaScript, TypeScript, React, Vite, FastAPI, Flask, HTML, CSS, Git, GitHub, VS Code" />
+  </picture>
 </div>
 
 ### GitHub at a glance
