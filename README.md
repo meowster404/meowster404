@@ -38,13 +38,13 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" width="300" />
 
 ###
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/31ow5ou32q5yqava5lqdb4xom2bu">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ow5ou32q5yqava5lqdb4xom2bu&amp;theme=radical&amp;width=640&amp;unique=1&amp;duration=1&amp;album=1&amp;profile=off" alt="Spotify recently played" width="640" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ow5ou32q5yqava5lqdb4xom2bu&amp;theme=radical&amp;width=640&amp;unique=1&amp;duration=1&amp;album=1&amp;profile=off" alt="Spotify recently played" width="940" />
 </a>
 </div>
 
