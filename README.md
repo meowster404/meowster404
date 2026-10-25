@@ -38,7 +38,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" width="900" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/meowster404/meowster404/snake-output/snake.svg" alt="Snake animation" width="750" />
 
 ###
 
