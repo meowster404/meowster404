@@ -3,7 +3,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/meowster404/meowster404/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=meowster404&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/meowster404/meowster404/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 </div>
@@ -44,9 +43,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Meowster">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Meowster&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <a href="https://open.spotify.com/user/31ow5ou32q5yqava5lqdb4xom2bu">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ow5ou32q5yqava5lqdb4xom2bu&amp;theme=radical&amp;width=640&amp;unique=1&amp;duration=1&amp;album=1&amp;profile=off" alt="Spotify recently played" width="640" />
+</a>
 </div>
 
 ###
