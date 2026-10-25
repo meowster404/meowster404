@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/meowster404">
-  <img src="https://i.pinimg.com/originals/d3/10/d3/d310d314fc99e1aedd20294e5cc6c5b1.gif" width="100%" alt="Animated anime cyberpunk banner" />
+  <img src="https://i.pinimg.com/originals/d3/10/d3/d310d314fc99e1aedd20294e5cc6c5b1.gif" width="100%" height="190" alt="Animated anime cyberpunk banner" />
 </a>
 
 <br/>
