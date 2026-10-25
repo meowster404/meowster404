@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/meowster404">
-  <img src="https://i.pinimg.com/736x/6d/3e/df/6d3edf50c4fc4d3d6394e916679f343e.jpg" width="100%" alt="Anime-themed profile banner" />
+  <img src="https://kommodo.ai/i/ntTHIijt4tKuKWR7iBeo" width="100%" alt="Anime-themed profile banner" />
 </a>
 
 <br/>
